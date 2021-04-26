@@ -4,7 +4,6 @@ import Contact from "./Contact";
 import Feature from "./Feature";
 import Navbar from "./Navbar";
 import download1 from "../images/dashboard.jpg";
-import Presentation from "./Presentation";
 
 function Header() {
   return (
