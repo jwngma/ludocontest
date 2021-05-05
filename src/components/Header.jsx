@@ -23,7 +23,7 @@ function Header() {
           </p>
 
           <a
-            href="https://onedrive.live.com/download?cid=760E907CD0C87FAD&resid=760E907CD0C87FAD%212043"
+            href="https://onedrive.live.com/download?cid=760E907CD0C87FAD&resid=760E907CD0C87FAD%212043&authkey=AIcdL35C_pTc6mM"
             className="cv-btn"
           >
             Download
