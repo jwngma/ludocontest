@@ -23,7 +23,7 @@ function Header() {
           </p>
 
           <a
-            href="https://docs.google.com/uc?export=download&id=1xFJFQr8VBcd_bj9-rANjdR-AK5qOx-xT"
+            href="https://docs.google.com/uc?export=download&id=1fuIcyjUMNVCOEfE8AQgigEZ6RvAT4AOr"
             className="cv-btn"
           >
             Download
