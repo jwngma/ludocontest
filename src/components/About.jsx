@@ -13,7 +13,7 @@ function About(props) {
           <p>Download the App Now And join Ludo betting Contest Right now</p>
 
           <button>
-            <a href="https://onedrive.live.com/download?cid=760E907CD0C87FAD&resid=760E907CD0C87FAD%212046&authkey=AFa8iCQC5MY2usE">
+            <a href="https://onedrive.live.com/download?cid=760E907CD0C87FAD&resid=760E907CD0C87FAD%212047&authkey=AGoY4qBHd13hZGo">
               {props.button}
             </a>
           </button>
